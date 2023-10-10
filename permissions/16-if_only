@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown guillaume vincent 
+chown -R --from=guillaume vincent hello  
