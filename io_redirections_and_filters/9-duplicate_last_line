@@ -1,2 +1,2 @@
 #!/bin/bash
-```bash tac "iacta" | sed '2s/.*/&\n&/' | tac > "iacta.tmp" && mv "iacta.tmp" "iacta" ```
+tail -n 1 "$ iacta"
