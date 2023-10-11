@@ -1,2 +1,2 @@
 #!/bin/bashs
-sudo head -n 3 "iacta"/ tail -n 1
+```bash head -n 3 iacta | tail -n 1 ```
