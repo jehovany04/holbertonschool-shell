@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Number of directories in $PATH: $num_directories"
+echo $PATH | tr ':' '\n' | grep -c /
