@@ -1,2 +1,2 @@
 #!/bin/bash
-export BEST="School" | ( read -r ; echo "BEST=$BEST" ; echo "BEST=$BEST" )
+export BEST="School"
