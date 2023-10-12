@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "BEST=School is: $GLOBAL_VAR"
+echo "BEST=School$GLOBAL_VAR"
