@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "BEST=%s\nBEST=%s\n" "$BEST" "$BEST"
+export BEST="School"; echo "BEST=$BEST"; echo "BEST=$BEST"
