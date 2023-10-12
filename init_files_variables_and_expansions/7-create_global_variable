@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "The value of GLOBAL_VAR is: $GLOBAL_VAR"
+echo "The value of BEST is: $BEST"
